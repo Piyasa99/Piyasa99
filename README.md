@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyasa Nandy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyasa99&label=Profile%20views&color=0e75b6&style=flat" alt="piyasa99" /> </p>
 
-- 🌱 I’m currently learning **Scikit-learn**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **piyasanandy19.7.99@gmail.com**
 
